@@ -1,0 +1,35 @@
+{
+  "black_pitting_banana_rust": {
+    "ten_tieng_viet": "Bệnh rỉ sắt / đốm gỉ quả chuối",
+    "loai": "Vi nấm & Bọ trĩ truyền bệnh",
+    "tac_nhan": [
+      "Uromyces musae",
+      "Chaetanaphothrips signipennis (bọ trĩ truyền nấm)"
+    ],
+    "ghi_chu": "Phát sinh các đốm nâu đen lấm chấm trên vỏ chuối từ giai đoạn quả non đến khi chín, làm giảm chất lượng mẫu mã vỏ quả."
+  },
+  "crown_rot": {
+    "ten_tieng_viet": "Bệnh thối cổ / thối cuống nải chuối",
+    "loai": "Tổ hợp vi nấm gây thối sau thu hoạch",
+    "tac_nhan": [
+      "Fusarium pallidoroseum",
+      "Colletotrichum musae",
+      "Lasiodiplodia theobromae"
+    ],
+    "ghi_chu": "Gây thối đen ở phần cuống nải chuối sau thu hoạch, lan nhanh trong điều kiện ẩm ướt và thiếu thông thoáng khi vận chuyển."
+  },
+  "fungal_disease": {
+    "ten_tieng_viet": "Bệnh thán thư / nấm đốm quả chuối",
+    "loai": "Vi nấm",
+    "tac_nhan": [
+      "Colletotrichum musae"
+    ],
+    "ghi_chu": "Vết bệnh tròn hơi lõm màu nâu sẫm, khi ẩm ướt xuất hiện dịch bào tử màu hồng nhạt, ăn sâu làm thối nhũn thịt quả khi chín."
+  },
+  "healthy_banana": {
+    "ten_tieng_viet": "Chuối khỏe mạnh",
+    "loai": "Không có",
+    "tac_nhan": [],
+    "ghi_chu": "Quả chuối phát triển bình thường, màu sắc vỏ tươi sáng, không có dấu hiệu nấm bệnh hay côn trùng gây hại."
+  }
+}
